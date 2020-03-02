@@ -35,7 +35,10 @@ header >nav> ul> li> a{
 }
 
 
-/* BODY AND ARTICLES */
+/* BODY AND ARTICLES
+configured using method one from the below source:
+https://medium.com/@PavelLaptev/css-weekly-2-an-image-on-the-left-text-on-the-left-a5e59b2acdb5?source=post_page-----a5e59b2acdb5---------------------- 
+*/
 
 body { 
     padding:50px;
@@ -70,14 +73,14 @@ body {
 /* FOOTERS */
 
 .container_footer {
-    /* border:1px solid blue; */
+    /* border:1px solid blue; for testing purposes only*/
     align:center;
     
 }
 
 footer > p {
     text-align:center;
-    /* border:1px solid green; */
+    /* border:1px solid green; for testing purposes only */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 
     sans-serif;
     font-size: 150%;
